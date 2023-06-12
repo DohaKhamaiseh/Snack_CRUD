@@ -5,7 +5,7 @@
 ### Author: Doha Khamasieh
 ---
 ### Links and Resources
-[PR link]()
+[PR link](https://github.com/DohaKhamaiseh/django-snacks/pull/1)
 
 ### Setup
 You need to install **django** to run this project
