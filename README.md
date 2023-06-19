@@ -1,6 +1,6 @@
-# LAB - Class 26
+# LAB - Class 28
 
-## Project: Django Snacks
+## Project: Django CRUD and Forms
 ---
 ### Author: Doha Khamasieh
 ---
